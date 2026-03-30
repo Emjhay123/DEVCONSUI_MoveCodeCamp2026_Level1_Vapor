@@ -98,7 +98,7 @@ const PortfolioView = () => {
   // ==========================================================================
   // STATE MANAGEMENT
   // ==========================================================================
-  const objectId = "0x3c3651d95af4e4cc4e2a873641a7f4a457f2d9d0a86917a946a074515838a100";
+  const objectId = "0x280b1a709debebad431a73d9a79f13c84c1b87478cbd9dc69b96b0a879ecdcdf";
   
   // Network state - default to testnet, can be changed if needed
   const [currentNetwork, setCurrentNetwork] = useState<"testnet" | "mainnet">("mainnet");
